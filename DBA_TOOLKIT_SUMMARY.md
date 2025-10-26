@@ -508,7 +508,3 @@ These scripts are production-ready and battle-tested, but if you encounter issue
 - Adjust thresholds for your environment
 
 ---
-
-**You now have a complete, professional DBA toolkit ready for your repository! 🎉**
-
-These scripts will save you hours every week and catch issues before they become critical. Perfect for showcasing your expertise and providing value to any organization.
